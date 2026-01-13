@@ -1,88 +1,78 @@
-
-<h1 align="center">Hi, I'm Mohan Gadde! 👋</h1>
-
-<h3 align="center">Full Stack Engineer (Java/Spring Boot & React)</h3>
-
-<p align="center">
-  <em>DeKalb, IL | Open to Relocation</em>
-</p>
-
-<p align="center">
-I am a software engineer with a Master's in CS (<b>4.0 GPA</b>) and industry experience building scalable microservices and intuitive frontends. I specialize in modernizing legacy systems, building cloud-native architectures, and integrating complex APIs.
-</p>
-
-- 🔭 **Currently working on:** Enterprise Microservices at Unicom Tech
-- 💼 **Previously:** Backend Integration Engineer at TCS (Oracle/Azure)
-- 🌱 **Learning:** Agentic AI Workflows & Advanced System Design
-- 💬 **Ask me about:** Java 17, Spring Boot, React Optimization, and Cloud Integration.
+<!-- TITLE AND INTRO -->
+<div align="center">
+  <h1 align="center">Mohan Gadde</h1>
+  <h3 align="center">Software Engineer | Java Spring Boot & React Specialist</h3>
+  <p align="center">
+    <b>United States</b> • <a href="https://linkedin.com/in/mohan-gadde">LinkedIn</a> 
+  </p>
+  <br>
+</div>
 
 ---
 
-### 🛠 Tech Stack
+### 👨‍💻 Professional Summary
 
-<p align="left">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JS"/>
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TS"/>
-  <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  
-  <br>
-  
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
-  <img src="https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node"/>
-  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-  
-  <br>
+I am a Full Stack Engineer specializing in building enterprise-grade distributed systems. My expertise lies in modernizing legacy architectures, designing event-driven microservices, and optimizing high-throughput web applications.
 
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-  
-  <br>
-  
-  <!-- Cloud & Tools -->
-  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres"/>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-</p>
+With a background in **FinTech (Oracle/Azure)** and **Research Data Systems**, I focus on writing clean, maintainable code that solves complex business problems at scale.
+
+- 🔭 **Current Focus:** Building scalable Microservices using **Java 17**, **Spring Boot**, and **Azure Functions**.
+- 🏗️ **Architecture:** Experience with Monolith-to-Microservices migration and Serverless Cloud patterns.
+- ⚡ **Performance:** Skilled in optimizing SQL queries, implementing Redis caching, and reducing API latency.
 
 ---
 
-### 🚀 Featured Projects
+### 🛠️ Technical Arsenal
 
-#### 🛡️ [Software Vulnerability Detector (Capstone)](https://github.com/YOUR-USERNAME/PROJECT-LINK)
-*An ML-powered dashboard to detect source code vulnerabilities.*
-*   **Tech:** React, Python, GNNs (Graph Neural Networks).
-*   **Impact:** Achieved **88% F1-score** and reduced manual analysis time by **30%**.
+<div align="left">
 
-#### 🏥 [Hospital Services Finder](https://github.com/YOUR-USERNAME/PROJECT-LINK)
-*Geolocation-based mobile app for emergency services.*
-*   **Tech:** React Native, Redux, Google Cloud API.
-*   **Scale:** Stress-tested for **5,000+** concurrent users.
+| **Category** | **Technologies** |
+| :--- | :--- |
+| **Backend Engineering** | ![Java](https://img.shields.io/badge/Java_17-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![Microservices](https://img.shields.io/badge/Microservices-grey?style=flat&logo=serverless&logoColor=white) ![Rest API](https://img.shields.io/badge/REST_API-005571?style=flat&logo=openapi&logoColor=white) |
+| **Frontend Development** | ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) |
+| **Data & Cloud** | ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) |
+| **DevOps & Tools** | ![CI/CD](https://img.shields.io/badge/CI%2FCD-Azure_DevOps-blue?style=flat) ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white) |
 
-#### 🔗 [Oracle-Azure Integration Middleware](https://github.com/YOUR-USERNAME/PROJECT-LINK)
-*Serverless middleware for financial data synchronization.*
-*   **Tech:** Java, Azure Functions, SOAP/REST Transformation.
-*   **Outcome:** Maintained **99% uptime** for critical financial data flows.
+</div>
+
+---
+
+### 🚀 Engineering Highlights
+
+#### 🏦 **Oracle-Azure Financial Middleware**
+*Enterprise Integration | Java, Azure Functions, SOAP/REST*
+*   Architected a serverless middleware layer to bridge **Oracle Fusion Financials** with external banking APIs (ADP, HighRadius).
+*   Designed complex XML-to-JSON transformation logic, replacing legacy point-to-point connections.
+*   **Outcome:** Achieved **99.9% uptime** for critical payroll data flows and automated month-end reconciliation.
+
+#### 🛡️ **Vulnerability Analysis Platform**
+*Data Engineering & Visualization | React, Node.js, Python*
+*   Engineered a full-stack dashboard to visualize software security metrics for large-scale codebases.
+*   Built automated ETL pipelines in Python to process unstructured datasets.
+*   **Outcome:** Reduced manual analysis time by **30%** via automated reporting and real-time metric rendering.
+
+#### 📍 **SaaS Service Finder**
+*Mobile Architecture | React Native, Redux, Google Cloud*
+*   Developed a scalable mobile application capable of handling high-concurrency requests (**5,000+ users**).
+*   Optimized geolocation algorithms to function efficiently in low-bandwidth environments.
 
 ---
 
 ### 📈 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="languages" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="Mohan's Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150" />
 </p>
 
 ---
 
-### 📫 Connect with me
-
-<p align="left">
-<a href="https://linkedin.com/in/mohan-gadde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohan-gadde" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <p>Let's connect and discuss distributed systems.</p>
+  <a href="https://linkedin.com/in/mohan-gadde">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:gaddemohangopi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
