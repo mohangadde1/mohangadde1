@@ -3,7 +3,7 @@
   <h1 align="center">Mohan Gadde</h1>
   <h3 align="center">Software Engineer | Java Spring Boot & React Specialist</h3>
   <p align="center">
-    <b>United States</b> • <a href="https://linkedin.com/in/mohan-gadde">LinkedIn</a> 
+    <b>United States</b> • <a href="https://linkedin.com/in/mohangadde1">LinkedIn</a> 
   </p>
   <br>
 </div>
@@ -69,7 +69,7 @@ With a background in **FinTech (Oracle/Azure)** and **Research Data Systems**, I
 
 <div align="center">
   <p>Let's connect and discuss distributed systems.</p>
-  <a href="https://linkedin.com/in/mohan-gadde">
+  <a href="https://linkedin.com/in/mohangadde1">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   
